@@ -11,7 +11,7 @@ from pathlib import Path
 # НАСТРОЙКИ
 # ============================================
 SOURCE_DIR = "/Volumes/D1/08.11.2025/H1"
-SEGMENT_DURATION = 3600  # 60 минут в секундах
+SEGMENT_DURATION = 1200  # 60 минут в секундах
 
 # Пути к ffmpeg (автоматически определяются)
 FFMPEG_PATH = "/usr/local/Homebrew/bin/ffmpeg"
