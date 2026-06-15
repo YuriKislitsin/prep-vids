@@ -7,7 +7,7 @@ def sanitize_filename(filename):
     return re.sub(r'[^\w\s.-]', '', filename).strip()
 
 # Параметры
-channel_url = "https://www.youtube.com/@tyessenov"
+channel_url = "https://www.youtube.com/@tyess"
 output_path = "/Volumes/Без названия/Edu/Youtube"
 max_videos = 50
 
