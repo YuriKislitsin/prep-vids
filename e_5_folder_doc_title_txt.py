@@ -2,7 +2,7 @@ import os
 
 def create_txt_files_recursively():
     # Путь к основной папке
-    base_path = "/Volumes/Macintosh HD — данные/Users/mac/Downloads/!Edu/Janetakis/[Udemy] [Nick Janetakis] Docker для DevOps от разработки до продакшена (2025)/en"
+    base_path = "/Volumes/Macintosh HD — данные/Users/mac/Downloads/!Edu/Janeta"
     
     # Проверяем, существует ли основная папка
     if not os.path.exists(base_path):
